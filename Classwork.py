@@ -90,6 +90,18 @@ while balance < TARGET :
 15
 20789.28179411367
 '''
-
-
+#4 
+This would continue to loop and update the balance until it is equal to or more than the balance that it is set too
+'''
+#5 
+This is printing every number that would be less than 100 as a variable for N
+'''
+2
+4
+8
+16
+32
+64
+128
+'''
 
